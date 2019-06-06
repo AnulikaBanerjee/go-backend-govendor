@@ -1,0 +1,29 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "VKx/YhlIAbIJ9dXAxCCHOkjom4U=",
+			"origin": "go-backend/vendor/github.com/gorilla/websocket",
+			"path": "github.com/gorilla/websocket",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "+nVM+CEZGAopOrYlLifgWP+X01E=",
+			"origin": "go-backend/vendor/github.com/satori/go.uuid",
+			"path": "github.com/satori/go.uuid",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "YFwpyqeFF7gF+0P0eGkjhw7gHnU=",
+			"path": "go-backend/src",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "e8w8E+u9gRHpmB/VKElHFCgnP+U=",
+			"path": "go-backend/src/util",
+			"revision": ""
+		}
+	],
+	"rootPath": "go-backend/src"
+}
